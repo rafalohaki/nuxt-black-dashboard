@@ -13,7 +13,7 @@
     "snyk-protect": "snyk-protect"
   },
   "dependencies": {
-    "@nuxtjs/pwa": "^3.0.0-beta.16",
+    "@nuxtjs/pwa": "^3.3.5",
     "bootstrap": "4.3.1",
     "chart.js": "^2.9.4",
     "d3": "^7.0.0",
